@@ -4,8 +4,8 @@
 
 Welcome to my GitHub profile :)
 
-
-🔭 I’m currently learning React.
+I specialize in creating beautiful, functional, and user-friendly web applications. My goal is to combine clean code with elegant design. I'm a highly motivated person with a passion for Front-End development. I'm constantly studying new technologies to maintain clean and efficient code. React, Node.js, Express, and MongoDB are my trusted tools for building responsive, dynamic, and fast web applications.
+🔭 I’m currently learning Node.js 
 
 # Skills and Experience:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
