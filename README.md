@@ -4,7 +4,9 @@
 
 Welcome to my GitHub profile :)
 
-I specialize in creating beautiful, functional, and user-friendly web applications. My goal is to combine clean code with elegant design. I'm a highly motivated person with a passion for Front-End development. I'm constantly studying new technologies to maintain clean and efficient code. React, Node.js, Express, and MongoDB are my trusted tools for building responsive, dynamic, and fast web applications.
+I specialize in creating beautiful, functional, and user-friendly web applications. 
+I'm constantly studying new technologies to maintain clean and efficient code. 
+
 🔭 I’m currently learning Node.js 
 
 # Skills and Experience:
