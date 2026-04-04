@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&width=435&lines=Bonjour!Hi!" alt="Typing SVG" /></a>
 
-## I'm Iryna✨Web developer from Canada
+## I'm Iryna✨Web developer
 
 Welcome to my GitHub profile :)
 
